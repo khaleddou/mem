@@ -211,4 +211,4 @@ printf "\n${blue} [∆] My official email:${yellow}		lkpandey950@gmail.com\n"
 printf "$blue [∆] My website:${yellow}		https://hax4us.com\n"
 printf "$blue [∆] My YouTube channel:${yellow}	https://youtube.com/hax4us\n"
 printline
-printf "$reset"
+printf "$run"
